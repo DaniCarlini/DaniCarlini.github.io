@@ -1,0 +1,53 @@
+body {
+    color: beige;
+    background: rgb(206, 137, 137);
+    font-family: helvetica;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+header img {
+    height: 200px;
+    border-radius: 100%;
+    border: 3px solid bisque;
+}
+
+.titulo {
+    color: bisque;
+    font-style: italic;
+}
+
+.Center {
+    text-align: center;
+}
+
+section ul {
+    display: list-item;
+    list-style-type: none;
+}
+
+footer img {
+    height: 30px;
+    width: 30px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 2px;
+}
+
+.container {
+    padding: 5px 100px;
+}
